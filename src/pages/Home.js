@@ -86,9 +86,6 @@ const Home = () => {
                     checked={!isShowSearch}
                     onChange={onRadioChange}
                     />
-              
-                    
-                
                 </div>
             </RadioInputsWrapper>
             <SearchButtonWrapper>
